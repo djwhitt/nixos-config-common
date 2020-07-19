@@ -1,4 +1,4 @@
-# NixOS Configuration
+# NixOS Modules
 
-A partial NixOS configuration designed to be included in other repos using
+A set of NixOS modules designed to be included in other repos using
 [git-subrepo](https://github.com/ingydotnet/git-subrepo).
